@@ -1,0 +1,2 @@
+# RecruiNex
+BSTU course project
